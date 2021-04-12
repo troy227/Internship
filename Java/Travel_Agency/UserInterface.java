@@ -11,7 +11,7 @@ public class UserInterface {
             else{
                 return 60.0;
             }
-           
+        
         };
         return ci;
     }

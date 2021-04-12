@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
         while(true){
-            Scanner sc=new Scanner(System.in);
+        Scanner sc=new Scanner(System.in);
         System.out.println("Menu");
         System.out.println("1.Add Contact");
         System.out.println("2.Display all contacts");
